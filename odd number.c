@@ -15,6 +15,6 @@ int main()
  for(;a<=g;)
  {
  cout<<a<<endl;
- a=a+2;
+ 
  }
 }
